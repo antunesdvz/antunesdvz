@@ -10,3 +10,4 @@
 # Linguagens que quero me aprofundar📚
 ![Java](/imagens/jva.png)
 ![JavaScript](/imagens/jsc.png)
+![c++](/imagens/c++.png)

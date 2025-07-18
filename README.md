@@ -1,5 +1,5 @@
 # Olá, seja bem vindo ao meu perfil!
-#### Meu nome é Gabriel Antunes e estou cursando o Apreender e Crescer 😎
+#### Meu nome é Gabriel Antunes e estou cursando o Aprender e Crescer 😎
 
 # Linguagens que eu Gosto👨‍💻
 ![Python](/imagens/py2.png

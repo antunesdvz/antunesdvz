@@ -6,7 +6,9 @@ Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40"/>
 
-💻 Projetos  
+## 💻 Projetos  
+### 📊 [Calculadora de Médias](https://github.com/antunesdvz/calculadora-de-medias)
+
 🛠️ Habilidades  
 📬 Contato
 

@@ -1,5 +1,5 @@
-# Olá, seja bem vindo ao meu perfil!
-#### Meu nome é Gabriel Antunes e estou cursando o Aprender e Crescer 😎
+# Olá, sejam bem-vindos ao meu perfil!
+#### Seja bem-vindo(a) ao meu perfil do GitHub! Aqui você vai encontrar Informações sobre mim, meus projetos, minhas habilidades e formas de entrar em contato comigo.
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)

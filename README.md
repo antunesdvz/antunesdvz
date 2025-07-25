@@ -7,6 +7,8 @@ Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre 
 ## 💻 Projetos  
 ### 📊 [Calculadora de Médias](https://github.com/antunesdvz/calculadora-de-medias)
 ### 📅 [Calculadora de idade em dias e segundos](https://github.com/antunesdvz/idade-em-dias)
+### 🌐 [PopCine - Repositório](https://github.com/antunesdvz/popcine-site)
+### 🖼️ [PopCine - Preview](https://antunesdvz.github.io/popcine-site/)
 
 ## 🛠️ Habilidades
 <p align="left">

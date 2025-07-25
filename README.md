@@ -22,3 +22,6 @@ Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre 
 </p>
 
 ## 📞 Contato
+### ☎️ Telefone (46) 99119-2399
+### ✉️ Email (g.2008.antunes@gmail.com)
+### 📷 [Instagram](https://www.instagram.com/antunesdvz/)

@@ -15,18 +15,11 @@ Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre 
 ### 🖼️ [Escolha seu Time - Preview](https://antunesdvz.github.io/escolher-time/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="35" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="29" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="29">
 
 ## 🛠️ Habilidades
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="39">
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Java](https://skillicons.dev/icons?i=java)
+![Skills](https://skillicons.dev/icons?i=python,html,css)
 
-</p>
+
 
 ## 📞 Contato
 

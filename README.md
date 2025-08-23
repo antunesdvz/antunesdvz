@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a) ao meu perfil!👨‍💻
+Olá, seja bem-vindo(a) ao meu perfil!👨‍💻
 #### Aqui você encontrará informações sobre mim, meus projetos, minhas habilidades e formas de entrar em contato.
 
 ## 👋 Sobre Mim
@@ -28,3 +28,8 @@ Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre 
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/+5546991192399)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antunesdvz/)
 [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=e71c18)](mailto:g.2008.antunes@gmail.com)
+
+
+## Currículo 📄
+### 📁 [Repositório](https://github.com/antunesdvz/curriculo-web-gabriel-antunes)
+### 🖼️ [Preview](https://antunesdvz.github.io/curriculo-web-gabriel-antunes/)

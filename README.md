@@ -5,7 +5,6 @@ Olá, seja bem-vindo(a) ao meu perfil!👨‍💻
 Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre buscando novas formas de aprender, criar e transformar ideias em soluções reais.
 
 ## 💻 Projetos  
-### 📊 [Calculadora de Médias em Java](https://github.com/antunesdvz/calculadora-de-medias) <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="25" />
 ### 📊 [Calculadora de Médias em Python](https://github.com/antunesdvz/calculadora-de-medias-py) <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" />
 ### 📅 [Calculadora de idade em dias e segundos](https://github.com/antunesdvz/idade-em-dias)  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" />
 ### 🌐 [PopCine - Repositório](https://github.com/antunesdvz/popcine-site) <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="35" />   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="29" />
@@ -17,7 +16,6 @@ Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre 
 
 ## 🛠️ Habilidades
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java)
 ![Skills](https://skillicons.dev/icons?i=python,html,css)
 
 

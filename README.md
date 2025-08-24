@@ -6,7 +6,7 @@ Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre 
 
 ## 💻 Projetos  
 ### 📊 [Calculadora de Médias em Python](https://github.com/antunesdvz/calculadora-de-medias-py) <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" />
-### 📅 [Calculadora de idade em dias e segundos](https://github.com/antunesdvz/idade-em-dias)  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" />
+### 📅 [Calculadora de Idade em Dias e Segundos](https://github.com/antunesdvz/idade-em-dias)  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" />
 ### 🌐 [PopCine - Repositório](https://github.com/antunesdvz/popcine-site) <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="35" />   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="29" />
 ### 🖼️ [PopCine - Preview](https://antunesdvz.github.io/popcine-site/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="35" />   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="29" />
 

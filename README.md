@@ -18,6 +18,9 @@ Olá! Meu nome é Gabriel Antunes e sou apaixonado por tecnologia, estou sempre 
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Skills](https://skillicons.dev/icons?i=python,html,css)
 
+## 📊 Estatísticas do GitHub
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=antunesdvz&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antunesdvz&layout=compact&theme=default)
 
 
 ## 📞 Contato
